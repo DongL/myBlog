@@ -50,6 +50,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>修改</title>
       <link>/%E4%BF%AE%E6%94%B9/</link>
@@ -61,5 +62,7 @@ When you click the Knit button a document will be generated that includes both c
 summary(cars) ## speed dist ## Min.</description>
     </item>
     
+=======
+>>>>>>> 5ea22ea27e67446d77427b8f74306694b5d64697
   </channel>
 </rss>
