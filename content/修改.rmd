@@ -1,12 +1,8 @@
 ---
-title: "new post"
+title: "修改"
 author: "Dong Liang"
 date: "3/3/2018"
 output: html_document
----
-
-
-Post made by blogdown and netlyfy
 ---
 
 ```{r setup, include=FALSE}
