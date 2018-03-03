@@ -1,9 +1,12 @@
 ---
-title: "修改"
+title: "S"
 author: "Dong Liang"
 date: "3/3/2018"
 output: html_document
 ---
+
+go to [about](../about).
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
