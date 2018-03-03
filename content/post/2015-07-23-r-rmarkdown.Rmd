@@ -6,7 +6,11 @@ categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
+<<<<<<< HEAD
 Go to [About](../about).
+=======
+Go to [About]('../about)
+>>>>>>> a922bdc808f58d7401f3378541349f71df4a606e
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
