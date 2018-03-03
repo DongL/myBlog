@@ -7,7 +7,7 @@ tags: ["R Markdown", "plot", "regression"]
 ---
 
 
-Go to [About](./about) and check.
+Go to [About](../about) and check.
 
 
 ```{r setup, include=FALSE}
