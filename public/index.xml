@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Sunday afternoon update</title>
+      <link>/2018/03/04/sunday-afternoon-update/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/04/sunday-afternoon-update/</guid>
+      <description>The log file was created on the afternoon in early March 2018 to test blogdown’s related functionality.
+plot(mtcars) </description>
+    </item>
+    
+    <item>
       <title>A Plain Markdown Post</title>
       <link>/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
