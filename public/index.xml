@@ -6,29 +6,10 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Sunday afternoon</title>
-      <link>/2018/03/04/sunday-afternoon/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/03/04/sunday-afternoon/</guid>
-      <description>日志文件，创建于在2018年3月初的某个下午，为了测试blogdown的相关功能。</description>
-    </item>
-    
-    <item>
-      <title>Sunday afternoon update</title>
-      <link>/2018/03/04/sunday-afternoon-update/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/03/04/sunday-afternoon-update/</guid>
-      <description>The log file was created on the afternoon in early March 2018 to test blogdown’s related functionality.
-plot(mtcars) </description>
-    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
