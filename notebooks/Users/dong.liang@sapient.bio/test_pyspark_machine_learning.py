@@ -6,7 +6,7 @@ spark = SparkSession.builder.appName('test').getOrCreate()
 # cores = spark._jsc.sc().getExecutorMemoryStatus().keySet().size()
 # print("The number of cores we are using:", cores)
 spark
-
+print('Done!')
 
 # COMMAND ----------
 
